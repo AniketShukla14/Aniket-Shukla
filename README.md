@@ -34,7 +34,7 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 Take a Look at the portfolio
-<br
+<br>
 <br>
 ![Untitled1](https://user-images.githubusercontent.com/60666490/139723413-1f8c4295-56fd-4330-bd4e-9b901003d21d.png)
 
