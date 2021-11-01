@@ -33,8 +33,7 @@
 
 <!-- ABOUT THE PROJECT -->
 ## About The Project
-<br>
-<br>
+Take a Look at the portfolio
 ![Untitled1](https://user-images.githubusercontent.com/60666490/139723413-1f8c4295-56fd-4330-bd4e-9b901003d21d.png)
 
 <p align="right">(<a href="#Let's Invite ">back to top</a>)</p>
