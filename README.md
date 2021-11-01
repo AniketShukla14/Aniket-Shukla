@@ -23,12 +23,12 @@ A portfolio website which provides professional information about Aniket Shukla.
        <li><a href="https://css-tricks.com/">CSS</a></li>
      <!-- <li><a href="https://www.javascript.com/">JavaScript</a></li> -->
       </ul>
-  <p align="right">(<a href="#Let's Invite ">back to top</a>)</p>
+  <p align="right">(<a href="#Aniket-Shukla">back to top</a>)</p>
   </ol>
   
 ## Objective
 <li>To showcase the proffesional information this website was created</li>
-<p align="right">(<a href="#Let's Invite ">back to top</a>)</p>
+<p align="right">(<a href="#Aniket-Shukla">back to top</a>)</p>
 
 
 <!-- ABOUT THE PROJECT -->
@@ -38,7 +38,7 @@ Take a Look at the portfolio
 <br>
 ![Untitled1](https://user-images.githubusercontent.com/60666490/139723413-1f8c4295-56fd-4330-bd4e-9b901003d21d.png)
 
-<p align="right">(<a href="#Let's Invite ">back to top</a>)</p>
+<p align="right">(<a href="#Aniket-Shukla">back to top</a>)</p>
 
 
 
