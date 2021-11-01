@@ -1,5 +1,5 @@
 # Aniket-Shukla
-<li>A portfolio website which provides professional information about Aniket Shukla.</li>
+A portfolio website which provides professional information about Aniket Shukla.
 <br>
 
 <!-- TABLE OF CONTENTS -->
