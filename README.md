@@ -27,7 +27,7 @@ A portfolio website which provides professional information about Aniket Shukla.
   </ol>
   
 ## Objective
-<li>To showcase the proffesional information this website was created</li>
+<li>To showcase the profesSional information this website was created</li>
 <p align="right">(<a href="#Aniket-Shukla">back to top</a>)</p>
 
 
